@@ -1,3 +1,3 @@
 # prueba
 esta es una prueba
-Esta es la prueba del branch v2, con esto comprobamos que funciona
+Cambios en la v2, para ver como funciona
