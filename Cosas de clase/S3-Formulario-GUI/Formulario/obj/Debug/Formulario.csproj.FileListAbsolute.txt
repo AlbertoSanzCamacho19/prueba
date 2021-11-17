@@ -1,0 +1,100 @@
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\bin\Debug\Formulario.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\bin\Debug\Formulario.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Formulario_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Formulario_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Formulario.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Formulario.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22-ProyectosVS\Formulario\Formulario\obj\Debug\Estilos-NOUSADO.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\bin\Debug\Formulario.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\bin\Debug\Formulario.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Estilos-NOUSADO.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Formulario_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Formulario_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Formulario.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Formulario.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\Formulario.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\OtraVentana.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario\Formulario\obj\Debug\OtraVentana.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\bin\Debug\Formulario.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\bin\Debug\Formulario.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\bin\Debug\Formulario.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Estilos-NOUSADO.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\OtraVentana.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Formulario_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Formulario_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\OtraVentana.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Formulario.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Formulario.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-COMPLETO\Formulario\obj\Debug\Formulario.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\Formulario_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\Formulario_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\Formulario.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\Formulario.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\bin\Debug\Formulario.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\bin\Debug\Formulario.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\bin\Debug\Formulario.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\Formulario.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S3-FORMULARIOS\v1-Formulario-SOLO GUI-ALUMNOS\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\bin\Debug\Formulario.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\Formulario_MarkupCompile.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\Formulario_MarkupCompile.lref
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.g.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\bin\Debug\Formulario.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\Formulario_MarkupCompile.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\Formulario_MarkupCompile.lref
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.g.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S3-Formulario-GUI\Formulario\obj\Debug\Formulario.pdb

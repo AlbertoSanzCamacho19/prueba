@@ -1,0 +1,105 @@
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\App.g.cs
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Carmen.Lacave\source\repos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Carmen.Lacave\source\repos\Eventos\bin\Debug\Eventos.exe
+C:\Users\Carmen.Lacave\source\repos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\MainWindow.baml
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.exe
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.pdb
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\bin\Debug\Eventos.exe
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\App.g.cs
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\MainWindow.baml
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.exe
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\bin\Debug\Eventos.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\bin\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\bin\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\Cosas de clase\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb

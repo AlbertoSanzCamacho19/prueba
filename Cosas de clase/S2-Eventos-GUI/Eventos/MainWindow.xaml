@@ -1,0 +1,105 @@
+﻿<Window x:Name="VentanaPrincipal" x:Class="Eventos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Eventos"
+        mc:Ignorable="d"
+        Title="PeliFlix" Height="500" Width="800" 
+        WindowStartupLocation="CenterScreen" 
+        HorizontalContentAlignment="Stretch" 
+        VerticalContentAlignment="Stretch" Closing="VentanaPrincipal_Closing" >
+
+    <Grid x:Name="diseñoPrincipal" MouseUp="diseñoPrincipal_MouseUp">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="179*"/>
+            <ColumnDefinition Width="66*"/>
+            <ColumnDefinition Width="144*"/>
+            <ColumnDefinition Width="144*"/>
+            <ColumnDefinition Width="66*"/>
+            <ColumnDefinition Width="179*"/>
+        </Grid.ColumnDefinitions>
+
+        <Rectangle x:Name="FondoVentana" 
+                   Grid.Row="0" Grid.Column="0"  Grid.RowSpan="9" Grid.ColumnSpan="6"
+                   RadiusX="1" RadiusY="1" Stroke="Black" Opacity="0.6" 
+                   StrokeThickness="3" 
+                   RenderTransformOrigin="0.5,0.5">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/imagenes/Netflix-Background.jpg" 
+                            Stretch="UniformToFill"/>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <Rectangle x:Name="FondoLogin" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="4" Grid.RowSpan="6" 
+                   Fill="#FF424242" Margin="5" 
+                   Stroke="Black" 
+                   RadiusX="10" RadiusY="10"/>
+        <Image x:Name="imgAvatar" 
+               Grid.Row="1" Grid.Column="1"
+               Margin="10,16,0,10" 
+               Source="/imagenes/avatar1.png"/>
+        <Label x:Name="lblTituloLogin" 
+               Grid.Row="1" Grid.Column="2"
+               Content="Iniciar Sesión"  
+               Margin="5,16,0,10"  
+               FontSize="20" 
+               Foreground="#FFFDFBFB" 
+               VerticalContentAlignment="Center"/>
+        <Label x:Name="lblUsuario" 
+               Grid.Row="2" Grid.Column="2" 
+               Content="Usuario" 
+               Margin="5,10,0,0" 
+               FontSize="14"
+               Foreground="#FFFBFAFA" 
+               VerticalContentAlignment="Bottom" 
+               HorizontalContentAlignment="Stretch" />
+        <TextBox x:Name="txtUsuario" 
+                 Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2"  
+                 Margin="5" VerticalContentAlignment="Center" TabIndex="-1" KeyDown="txtUsuario_keyDown" />
+        <Label x:Name="lblContrasena" 
+               Grid.Row="4" Grid.Column="2"  
+               Content="Contraseña" 
+               FontSize="14" Foreground="#FFFBFAFA" 
+               Margin="5,10,0,0" 
+               VerticalContentAlignment="Bottom" 
+               HorizontalContentAlignment="Stretch" />
+        <Label x:Name="lblRecordarContrasena" 
+               Grid.Row="4" Grid.Column="3" 
+               Content="¿Olvidó su contraseña?" 
+               FontStyle="Italic" 
+               Foreground="#FFC4C6E0" 
+               HorizontalContentAlignment="Right" 
+               VerticalContentAlignment="Bottom" />
+        <PasswordBox x:Name="passContrasena" 
+                Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="2"
+                Margin="5" PasswordChar="*" VerticalContentAlignment="Center" 
+                IsEnabled="False" TabIndex="2" KeyUp="passContrasena_KeyUp" />
+        <Button x:Name="btnLogin" 
+                Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="2" 
+                Content="Iniciar Sesión" 
+                Margin="93,15,93,25"  
+                Background="#FFFF5852" Foreground="#FFFFFEFE" 
+                FontWeight="Bold" Padding="6" 
+                UseLayoutRounding="True" 
+                AllowDrop="True" TabIndex="3" Click="btnLogin_Click" />
+        <Label x:Name="lblEstado" Grid.Row="8" Grid.ColumnSpan="6" 
+               Content="Estado de la aplicación" 
+               Margin="0,10,0,0" Background="#FFF7F6F6" 
+               Opacity="0.7" FontWeight="Bold" 
+               VerticalContentAlignment="Center" HorizontalContentAlignment="Center" />
+        <Image x:Name="imagCheckUsuario" Grid.Column="4" HorizontalAlignment="Left" Height="30" Margin="5" Grid.Row="3" VerticalAlignment="Top" Width="30" Grid.RowSpan="2"/>
+        <Image x:Name="imagCheckContrasena" Grid.Column="4" HorizontalAlignment="Left" Height="30" Margin="5" Grid.Row="5" VerticalAlignment="Top" Width="30" Grid.RowSpan="2"/>
+    </Grid>
+</Window>
