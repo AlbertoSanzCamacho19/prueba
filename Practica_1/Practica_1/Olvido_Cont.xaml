@@ -1,0 +1,21 @@
+﻿<Window x:Name="olvido_cont" x:Class="Practica_1.Olvido_Cont"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_1"
+        mc:Ignorable="d"
+        Title="Cambio de contraseña" Height="420" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" BorderBrush="Black">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="31*"/>
+            <ColumnDefinition Width="11*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="pedirUsuario" Content="Intrduzca su usuario" Margin="19,108,49.8,0" VerticalAlignment="Top" FontWeight="Bold" Height="26"/>
+        <TextBox x:Name="compUser" Height="25" Margin="19,139,28.6,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="compUser_TextChanged" KeyDown="compUser_KeyDown" VerticalContentAlignment="Center" Grid.ColumnSpan="2"/>
+        <Label x:Name="pedirCont" Content="Introduzca su nueva contraseña:" Margin="19,184,28.6,0" VerticalAlignment="Top" FontWeight="Bold" IsHitTestVisible="False" Visibility="Hidden" Grid.ColumnSpan="2" Height="26"/>
+        <Button x:Name="btn_cambiar" Content="Cambiar" Margin="106,324,24.8,0" VerticalAlignment="Top" Foreground="White" Background="#FF0F6CC9" FontWeight="Bold" Height="24" IsHitTestVisible="False" IsEnabled="False" Click="btn_cambiar_Click"/>
+        <TextBox x:Name="Nuevacont" HorizontalAlignment="Left" Height="24" Margin="19,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" VerticalContentAlignment="Center" Visibility="Hidden" IsEnabledChanged="Nuevacont_IsEnabledChanged" KeyDown="Nuevacont_KeyDown_1" Grid.ColumnSpan="2"/>
+        <Image Height="74" Margin="107,24,21.8,0" VerticalAlignment="Top" Source="lock.jpg"/>
+    </Grid>
+</Window>

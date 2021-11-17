@@ -1,0 +1,68 @@
+C:\Users\migue\source\repos\Practica_1\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\migue\source\repos\Practica_1\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\migue\source\repos\Practica_1\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\MainWindow.g.cs
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\App.g.cs
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1_MarkupCompile.cache
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1_MarkupCompile.lref
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\MainWindow.baml
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.g.resources
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\migue\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.pdb
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\MainWindow.g.cs
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\App.g.cs
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\Practica_1_MarkupCompile.cache
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\Practica_1_MarkupCompile.lref
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\MainWindow.baml
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\Practica_1.g.resources
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\migue\OneDrive\Escritorio\Practica_1\Practica_1\obj\Debug\Practica_1.pdb
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\MainWindow.g.cs
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\App.g.cs
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1_MarkupCompile.cache
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1_MarkupCompile.lref
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\MainWindow.baml
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.g.resources
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.pdb
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Principal.g.cs
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Principal.baml
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Olvido_Cont.g.cs
+C:\Users\migue\OneDrive\Escritorio\IPO-1-main\Practica_1\Practica_1\obj\Debug\Olvido_Cont.baml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Olvido_Cont.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Principal.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1_MarkupCompile.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1_MarkupCompile.lref
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Olvido_Cont.baml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Principal.baml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.g.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\IPO-1\IPO-1-0.1.2\IPO-1-main\Practica_1\Practica_1\obj\Debug\Practica_1.pdb

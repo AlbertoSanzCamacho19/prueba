@@ -1,0 +1,46 @@
+﻿<Window x:Name="VentantaMain" x:Class="Practica_1.Principal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_1"
+        mc:Ignorable="d"
+        Title="Principal" WindowStartupLocation="CenterScreen" Icon="PinClipart.com_uk-wildcats-clipart_1554032.png">
+    <Grid>
+        <Rectangle x:Name="mostrarDatos" Fill="#FFF2F3F7" Margin="159,42,-0.4,-0.4" Stroke="#FFF2F3F7"/>
+        <Rectangle x:Name="MenuPestañas" Fill="#FF63A8E9" Height="42" Stroke="#FF63A8E9" Margin="0,0,-0.4,0" VerticalAlignment="Top"/>
+        <Image x:Name="logo" Margin="64,5,0,0" Source="icons8-dog-park-48.png" Height="30" Stretch="Fill" Width="30" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="animales" Content="Animales" Margin="1,42,0,0" Width="159" Height="39" BorderBrush="#FFF2F3F7" Foreground="#FF403D3D" Background="White" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TabControl Margin="159,0,-0.4,-0.4">
+            <TabControl.BorderBrush>
+                <SolidColorBrush Color="#FFACACAC" Opacity="0"/>
+            </TabControl.BorderBrush>
+            <TabControl.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TabControl.Background>
+            <TabItem x:Name="user" Header="User" Margin="-1,-3,-3.2,2.6" BorderBrush="White" FontWeight="Bold" Height="41.6">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0" Opacity="0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFB94343" Margin="-6,16,-3.8,-2.4" Height="0"/>
+            </TabItem>
+            <TabItem x:Name="stats" Header="Stats" Margin="1.2,-3,-5,2.6" BorderBrush="White" FontWeight="Bold" Foreground="Black" Height="41.6">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0" Opacity="0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Margin="-3,17,-0.4,-0.4">
+                    <Grid.Background>
+                        <SolidColorBrush Color="#FFD03C3C" Opacity="0"/>
+                    </Grid.Background>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Button x:Name="addAnimal" Content="Añadir animal" Margin="1,80,0,0" Width="159" Height="39" BorderBrush="#FFF2F3F7" Foreground="#FF403D3D" Background="White" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
